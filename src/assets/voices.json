@@ -16,6 +16,15 @@
               "Japanese": "は↑は↑は↓は↓は↓",
               "en": "konlulu"
             }
+          },
+          {
+              "name": "ohjesus",
+              "path": "lulujesus.mp3",
+              "translation": {
+                "Chinese": "哈↑哈↑哈↓哈↓哈↓",
+                "Japanese": "は↑は↑は↓は↓は↓",
+                "en": "jesus, oh jusus"
+              }
           }
         ]
       }
